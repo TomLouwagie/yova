@@ -1,3 +1,3 @@
 class Client < ApplicationRecord
-  # has_many :notifications
+  has_many :notifications
 end
